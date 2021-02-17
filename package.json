@@ -110,6 +110,7 @@
     "@rollup/plugin-replace": "^2.3.4",
     "autoprefixer": "^10.2.4",
     "bundlewatch": "^0.3.2",
+    "clean-css": "github:jakubpawlowicz/clean-css#bootstrap-issues",
     "clean-css-cli": "^5.1.0",
     "cross-env": "^7.0.3",
     "eslint": "^7.20.0",
